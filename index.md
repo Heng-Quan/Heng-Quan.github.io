@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# Heng Quan
+# About Me
 
 <img src="https://heng-quan.github.io/quanheng.jpg" class="floatpic" width="640" height="520">
 
