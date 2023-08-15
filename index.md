@@ -4,11 +4,11 @@ layout: page
 
 # About Me
 
-<img src="https://heng-quan.github.io/quanheng.jpg" class="floatpic" width="480" height="390">
+<img src="https://heng-quan.github.io/quanheng.jpg" class="floatpic" width="640" height="520">
 
 Here is **Heng Quan ([权衡](https://caihanlin.com/file/蔡汉霖简历.pdf))**.
 
-I am a senior student majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). Currently, I am working as a research assistant in the **IACTIP Lab** (Provincial Key), advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). Here is [my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf).
+I am a graduate student in [Atmospheric and Oceanic Sciences (AOS) program](https://aos.princeton.edu) at Princeton University. I'm advised by Professor [Stephan Fueglistaler](https://fueglistaler.princeton.edu), and now I'm working on **tropical atmospheric dynamics** and **SST pattern effect**. I got my bachelor's degree in atmospheric sciences at Peking University (China) in June 2022. Here is [my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf).
 
 <br>
 
