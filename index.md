@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="https://heng-quan.github.io/quanheng.jpg" class="floatpic" width="320" height="260">
 
 Here is **Heng Quan ([权衡](https://caihanlin.com/file/蔡汉霖简历.pdf))**.
 
