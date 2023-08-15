@@ -6,32 +6,27 @@ layout: page
 
 <img src="https://heng-quan.github.io/quanheng.jpg" class="floatpic" width="640" height="520">
 
-Here is **Heng Quan ([权衡](https://caihanlin.com/file/蔡汉霖简历.pdf))**.
+Here is **Heng Quan (权衡)**.
 
 I am a graduate student in [Atmospheric and Oceanic Sciences (AOS) program](https://aos.princeton.edu) at Princeton University. I'm advised by Professor [Stephan Fueglistaler](https://fueglistaler.princeton.edu), and now I'm working on **tropical atmospheric dynamics** and **SST pattern effect**. I got my bachelor's degree in atmospheric sciences at Peking University (China) in June 2022. Here is [my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf).
 
 <br>
 
-## Academic Background
+## Education
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
-
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - May 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Intern)
-- Expect to apply for a one-year MSc in the UK and will graduate in 2025. Looking for PhD position after MSc!
+- **Sep 2022 - June 2027 (expected):** Princeton University, PhD in atmospheric and oceanic sciences
+- **Sep 2018 - June 2022:** Peking University School of Physics, Bachelor's degree in atmospheric sciences
 
 <br>
 
 ---
 
-## Research Interests
+## Researches
 
-- Industrial IoT System
-- Bluetooth Low Energy
-- Applied Machine Learning
-
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+- **Tropical dynamics and SST pattern effect:** This is my current graduate research.
+- **Reinforcement Learning for Geoengineering:** This is my bachelor thesis research, advised by Professor [Daniel Koll](https://danielkoll.github.io) at Peking University. I also received lots of help from Professor [Nicholas Lutsko](https://nicklutsko.github.io) at UCSD and Dr. [Janni Yuval](https://yaniyuval.wixsite.com/janniy) at MIT.
+- **Conditional mean temperature tendency decomposition:** This is my 2021 summer research, advised by Professor [Marianna Linz](https://eps.harvard.edu/people/marinna-katherine-linz) at Harvard University and Professor [Gang Chen](http://gchenpu.com) at UCLA.
+- **Asymmetry of temperature series:** This is my undergraduate research in 2021, advised by Professor [Zuntao Fu](https://www.researchgate.net/profile/Zuntao-Fu) at Peking University. 
 
 <br>
 
