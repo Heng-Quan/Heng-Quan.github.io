@@ -36,4 +36,7 @@ I am a graduate student in [Atmospheric and Oceanic Sciences (AOS) program](http
 
 - **July 2023：**I attended 2023 Gordon Research Conference about Radiation and Climate in Maine, and presented the same [poster](https://heng-quan.github.io/file/CFMIP_poster.pdf) as CFMIP.
 - **July 2023：**I attended CFMIP-GASS 2023 meeting in Paris and presented a poster ["Non-linear radiative response to patterned global warming due to convection aggregation"](https://heng-quan.github.io/file/CFMIP_poster.pdf).
-- **April 2023：**My 2021 summer research paper ["How Do Different Processes Shape Temperature Probability Distributions?A Percentile-Averaged Temperature Tendency Decomposition"](https://heng-quan.github.io/mypaper/Quan_2023_JCLI.pdf) was finally accepted by Journal of Climate!
+- **Apr 2023：**My 2021 summer research paper ["How Do Different Processes Shape Temperature Probability Distributions?A Percentile-Averaged Temperature Tendency Decomposition"](https://heng-quan.github.io/mypaper/Quan_2023_JCLI.pdf) was finally accepted by Journal of Climate!
+- **Sep 2022：**I started my PhD at Princeton University.
+- **June 2022：**I graduated from Peking University.
+
