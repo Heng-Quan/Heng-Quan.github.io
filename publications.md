@@ -8,6 +8,8 @@ title: Publications
 
 Lastest Update: 11st Aug 2023&nbsp;  [中文 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
 
+- Chai, W., Huang, Y., Yang, L., **Quan, H.**, & Fu, Z. (2021). Evaluation of re-analyses over China based on the temporal asymmetry of daily temperature variability. Theoretical and Applied Climatology, 1-13. [doi](https://link.springer.com/article/10.1007/s00704-021-03839-y)[pdf](https://heng-quan.github.io/mypaper/Chai_2021_TAC.pdf)
+
 ## Conference Paper
 
 - [Deep Residual Neural Network for Efficient Traffic Sign Detection](https://caihanlin.com/mypaper/202302ICAROB.pdf)<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>28th International Conference on Artificial Life and Robotics<br>Beppu, Japan. February, 2023. [Slides](https://caihanlin.com/mypaper/slides/2023-ICAROB-Pre.pdf).<br>
