@@ -15,6 +15,7 @@ Lastest Update: 16st Aug 2023
 
 
 ## Conditional mean temperature tendency decomposition
+This research proposes a conditional mean temperature tendency decomposition framework that tells us what processes drive temperature towards or away from extremes at every temperature percentile, which is very useful for extreme events studies. It tells us that horizontal temperature advection drives temperatures toward more extreme values over most land in the midlatitudes, but dampens temperature anomalies in some coastal summer monsoon regions, where extreme temperatures result from other processes. This is my 2021 summer research, advised by Professor [Marianna Linz](https://eps.harvard.edu/people/marinna-katherine-linz) at Harvard University and Professor [Gang Chen](http://gchenpu.com) at UCLA. The [research paper](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-22-0556.1/JCLI-D-22-0556.1.xml) is published in Journal of Climate.
 
 
 ## Asymmetry of temperature series
