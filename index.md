@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://heng-quan.github.io/quanheng.jpg" class="floatpic" width="640" height="520">
+<img src="https://heng-quan.github.io/quanheng.jpg" class="floatpic" width="960" height="780">
 
 I am a graduate student in [Atmospheric and Oceanic Sciences (AOS) program](https://aos.princeton.edu) at Princeton University. I'm advised by Professor [Stephan Fueglistaler](https://fueglistaler.princeton.edu), and now I'm working on **tropical atmospheric dynamics** and **SST pattern effect**. I got my bachelor's degree in atmospheric sciences at Peking University (China) in June 2022. Here is [my CV](https://heng-quan.github.io/file/Heng_Quan_CV.pdf).
 
