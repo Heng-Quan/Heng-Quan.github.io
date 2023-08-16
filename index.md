@@ -12,17 +12,6 @@ I am a graduate student in [Atmospheric and Oceanic Sciences (AOS) program](http
 
 ---
 
-## Researches
-
-- **Tropical dynamics and SST pattern effect:** This is my current graduate research.
-- **Reinforcement Learning for Geoengineering:** This is my bachelor thesis research, advised by Professor [Daniel Koll](https://danielkoll.github.io) at Peking University. I also received lots of help from Professor [Nicholas Lutsko](https://nicklutsko.github.io) at UCSD and Dr. [Janni Yuval](https://yaniyuval.wixsite.com/janniy) at MIT.
-- **Conditional mean temperature tendency decomposition:** This is my 2021 summer research, advised by Professor [Marianna Linz](https://eps.harvard.edu/people/marinna-katherine-linz) at Harvard University and Professor [Gang Chen](http://gchenpu.com) at UCLA.
-- **Asymmetry of temperature series:** This is my undergraduate research in 2021, advised by Professor [Zuntao Fu](https://www.researchgate.net/profile/Zuntao-Fu) at Peking University. 
-
-<br>
-
----
-
 ## News and Updates
 
 - **July 2023：**I attended 2023 Gordon Research Conference about Radiation and Climate in Maine, and presented the same [poster](https://heng-quan.github.io/file/CFMIP_poster.pdf) as CFMIP.
