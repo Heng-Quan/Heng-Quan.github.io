@@ -8,7 +8,10 @@ title: Publications
 
 Lastest Update: 16st Aug 2023
 
-## Preprints
+## Manuscripts in prep
+
+- **Quan, H.**, Koll, D., Lutsko, N., & Yuval, J. Optimal Solar Geoengineering Strategies Based on Reinforcement Learning.
+- **Quan, H.**, Fueglistaler, S., Zhang, B., & Wang, C. Non-linear radiative response to patterned global warming due to convection aggregation and non-linear tropical dynamics.
 
 ## Published
 
