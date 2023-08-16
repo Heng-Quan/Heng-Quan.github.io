@@ -11,7 +11,9 @@ Lastest Update: 16st Aug 2023
 ## Tropical dynamics and SST pattern effect
 
 
+
 ## Reinforcement Learning for Geoengineering
+One solar geoengineering method is injecting aerosols in the stratosphere to reflect solar radiation. Different strategies (global distribution + time dependence) of aerosol injection will affect climate differently, and people want to find the 'best' strategy that results in a desired climate state. This is an optimization problem and could be solved by reinforcement learning, a machine learning technic widely used in autonomous driving, robotics and AI game playing. This research shows that reinforcement learning gives us effective geoengineering strategies that can prevent global warming and revert climate change. This is my bachelor thesis research, advised by Professor [Daniel Koll](https://danielkoll.github.io) at Peking University. I also received lots of help from Professor [Nicholas Lutsko](https://nicklutsko.github.io) at UCSD and Dr. [Janni Yuval](https://yaniyuval.wixsite.com/janniy) at MIT. The research paper is going to be submitted soon.
 
 
 ## Conditional mean temperature tendency decomposition
