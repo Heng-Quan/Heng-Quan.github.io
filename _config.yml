@@ -35,7 +35,7 @@ links:
   - title: About Me
     url: /
   - title: Resume
-    url: /file/CV-HanlinCAI.pdf
+    url: /file/Heng_Quan_CV
   - title: Publications
     url: /publications/
   # - title: Awards
@@ -83,5 +83,5 @@ include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
 
-# Latest update in 2023/08/01 by Hanlin Cai.
-# URL: https://caihanlin.com/
+# Latest update in 2023/08/16 by Heng Quan.
+# URL: https://heng-quan.github.io
