@@ -10,13 +10,6 @@ I am a graduate student in [Atmospheric and Oceanic Sciences (AOS) program](http
 
 <br>
 
-## Education
-
-- **Sep 2022 - June 2027 (expected):** Princeton University, PhD in atmospheric and oceanic sciences
-- **Sep 2018 - June 2022:** Peking University School of Physics, Bachelor's degree in atmospheric sciences
-
-<br>
-
 ---
 
 ## Researches
