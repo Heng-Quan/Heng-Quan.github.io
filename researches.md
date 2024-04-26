@@ -9,7 +9,16 @@ Lastest Update: 26th April 2024
 # Graduate researches at Princeton University
 
 
-## How does tropical free-tropospheric temperature respond to global warming?
+## How does the spatial pattern of tropical free-tropospheric temperature respond to global warming?
+The Weak Temperature Gradient (WTG) approximation is fundamental to tropical atmospheric dynamics, yet its response to global warming is less studied. Here, we use theory and a hierarchy of models to demonstrate that the tropical free-tropospheric horizontal temperature gradients will be even weaker in a warmer climate.
+
+![weaker_T500_gradient.pdf](https://heng-quan.github.io/figures/weaker_T500_gradient.pdf)
+
+Long story short, weaker atmospheric circulation in a warmer climate causes weaker momentum advection in tropical free-troposphere, then results weaker pressure gradients as required by the momentum equation, which finally translates to weaker temperature gradients according to the hydrostatic balance.
+
+We have a manuscript in preparation regarding the above mechanism. We plan to study the implications of weaker tropical free-tropospheric temperature gradient in the future. Do we need to improve the WTG parameterization of large-scale dynamics in convective-scale modeling? Will weaker tropical free-tropospheric temperature gradient affect surface heat extremes?
+
+Collaborators: [Yi Zhang](https://yzhang-aos.github.io), [Stephan Fueglistaler](https://fueglistaler.princeton.edu)
 
 
 ## SST pattern effect on OLR: the role of large-scale convection aggregation
@@ -22,6 +31,8 @@ Our studies have the following key points:
 1. Tropical SST gradient has comparable impacts on TOA shortwave and longwave radiation in a hierarchy of models (on-going research).
 2. Historical (1980-2010) SST warming pattern featuring increasing SST gradient results more negative longwave radiative feedback than uniform SST warming, which is quantitatively explained by convection aggregation (on-going research).
 3. OLR responses to SST perturbations at different locations are not additive, because convection aggregation responses are not additive. This can be ultimately explained by non-linear tropical atmospheric dynamics (revision under review, see the [video](https://heng-quan.github.io/file/AGU2023_Quan_video.mp4) and [preprint](https://heng-quan.github.io/mypaper/Quan_2023_JCLI_preprint.pdf)). 
+
+Collaborators: [Stephan Fueglistaler](https://fueglistaler.princeton.edu), [Bosong Zhang](https://scholar.google.com/citations?hl=en&user=fe0ePl0AAAAJ&view_op=list_works&sortby=pubdate), [Chenggong Wang](https://chenggongwang.github.io)
 
 
 # Undergraduate researches at Peking University 
