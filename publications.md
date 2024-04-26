@@ -6,9 +6,11 @@ title: Publications
 
 # Publications
 
-Lastest Update: 16st Aug 2023
+Lastest Update: 26th April 2024
 
 ## Manuscripts in prep
+
+- **Quan, H.**, Zhang, Y., & Fueglistaler, S. Weaker temperature gradient in a warmer climate.
 
 - **Quan, H.**, Koll, D., Lutsko, N., & Yuval, J. Optimal Solar Geoengineering Strategies Based on Reinforcement Learning.
 
