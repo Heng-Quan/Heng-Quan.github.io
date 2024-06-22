@@ -6,15 +6,15 @@ title: Publications
 
 # Publications
 
-Lastest Update: 26th April 2024
+Lastest Update: 22nd June 2024
 
 ## Manuscripts in prep
-
-- **Quan, H.**, Zhang, Y., & Fueglistaler, S. Weaker temperature gradient in a warmer climate.
 
 - **Quan, H.**, Koll, D., Lutsko, N., & Yuval, J. Optimal Solar Geoengineering Strategies Based on Reinforcement Learning.
 
 ## Manuscripts under review
+
+- **Quan, H.**, Zhang, Y., & Fueglistaler, S. Weaker temperature gradient in a warmer climate. [[preprint]](https://heng-quan.github.io/mypaper/Quan_2024_JAS_preprint.pdf)
 
 - **Quan, H.**, Fueglistaler, S., Zhang, B., & Wang, C. Non-linear radiative response to patterned global warming due to convection aggregation and non-linear tropical dynamics. [[preprint]](https://heng-quan.github.io/mypaper/Quan_2023_JCLI_preprint.pdf)
 

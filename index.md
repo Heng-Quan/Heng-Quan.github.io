@@ -14,11 +14,15 @@ I am a graduate student in [Atmospheric and Oceanic Sciences (AOS) program](http
 
 ## News and Updates
 
+- **June 2024：**I attended 2024 AOFD in Burlington, and gave an oral presentation titled 'Weaker temperature gradient
+in a warmer climate'. The [preprint](https://heng-quan.github.io/mypaper/Quan_2024_JAS_preprint.pdf), [slides](https://heng-quan.github.io/file/AOFD2024_Quan_slides.pdf) and [pre-recorded video](https://heng-quan.github.io/file/AOFD2024_Quan_video.mp4) are attached.
+- **June 2024：**I attended 2024 CFMIP in Boston, and gave an oral presentation titled 'The SST pattern effect on OLR: the role of large-scale convective aggregation'. The [slides](https://heng-quan.github.io/file/CFMIP2024_Quan_slides.pdf) and [pre-recorded video](https://heng-quan.github.io/file/CFMIP2024_Quan_video.mp4) are attached.
 - **Dec 2023：**I attended 2023 AGU in San Francisco, and had two oral presentations about my SST pattern effect and Green's Functions research (in large-scale dynamics session and climate sensitivity session). The [preprint](https://heng-quan.github.io/mypaper/Quan_2023_JCLI_preprint.pdf), [slides](https://heng-quan.github.io/file/AGU2023_Quan_slides.pptx) and [pre-recorded video](https://heng-quan.github.io/file/AGU2023_Quan_video.mp4) are attached, they can also be found in AGU website.
 - **Aug 2023：**I had a field trip in Durango, Colorado, with my classmates in AOS program. We launched weather balloons to detect vertical profiles. This is a funny trip!
-- **July 2023：**I attended 2023 Gordon Research Conference about Radiation and Climate in Maine, and presented the same [poster](https://heng-quan.github.io/file/CFMIP_poster.pdf) as CFMIP.
-- **July 2023：**I attended CFMIP-GASS 2023 meeting in Paris and presented a poster ["Non-linear radiative response to patterned global warming due to convection aggregation"](https://heng-quan.github.io/file/CFMIP_poster.pdf).
-- **Apr 2023：**My 2021 summer research paper ["How Do Different Processes Shape Temperature Probability Distributions?A Percentile-Averaged Temperature Tendency Decomposition"](https://heng-quan.github.io/mypaper/Quan_2023_JCLI.pdf) was finally accepted by Journal of Climate!
+- **July 2023：**I attended 2023 Gordon Research Conference about Radiation and Climate in Maine, and presented the same [poster](https://heng-quan.github.io/file/CFMIP2023_Quan_poster.pdf) as CFMIP.
+- **July 2023：**I attended CFMIP-GASS 2023 meeting in Paris and presented a poster ["Non-linear radiative response to patterned global warming due to convection aggregation"](https://heng-quan.github.io/file/CFMIP2023_Quan_poster.pdf).
+- **Apr 2023：**My 2021 summer research paper ["How Do Different Processes Shape Temperature Probability Distributions?
+A Percentile-Averaged Temperature Tendency Decomposition"](https://heng-quan.github.io/mypaper/Quan_2023_JCLI.pdf) was finally accepted by Journal of Climate!
 - **Sep 2022：**I started my PhD at Princeton University.
 - **June 2022：**I graduated from Peking University.
 
