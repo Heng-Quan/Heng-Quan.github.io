@@ -4,19 +4,19 @@ permalink: /researches/index.html
 title: Researches
 ---
 
-Lastest Update: 26th April 2024
+Lastest Update: 26th June 2024
 
 # Graduate researches at Princeton University
 
 
-## How does the spatial pattern of tropical free-tropospheric temperature respond to global warming?
+## Weakening of tropical free tropospheric temperature gradients with global warming
 The Weak Temperature Gradient (WTG) approximation is fundamental to tropical atmospheric dynamics, yet its response to global warming is less studied. Here, we use theory and a hierarchy of models to demonstrate that the tropical free-tropospheric horizontal temperature gradients will be even weaker in a warmer climate.
 
 ![weaker_T500_gradient.pdf](https://heng-quan.github.io/figures/weaker_T500_gradient.pdf)
 
 Long story short, weaker atmospheric circulation in a warmer climate causes weaker momentum advection in tropical free-troposphere, then results weaker pressure gradients as required by the momentum equation, which finally translates to weaker temperature gradients according to the hydrostatic balance.
 
-We have a manuscript in preparation regarding the above mechanism. We plan to study the implications of weaker tropical free-tropospheric temperature gradient in the future. Do we need to improve the WTG parameterization of large-scale dynamics in convective-scale modeling? Will weaker tropical free-tropospheric temperature gradient affect surface heat extremes?
+We have a manuscript under review in Journal of the Atmospheric Sciences regarding the above mechanism. We plan to study the implications of weaker tropical free-tropospheric temperature gradient in the future. Do we need to improve the WTG parameterization of large-scale dynamics in convective-scale modeling? Will weaker tropical free-tropospheric temperature gradient affect surface heat extremes and low cloud cover?
 
 Collaborators: [Yi Zhang](https://yzhang-aos.github.io), [Stephan Fueglistaler](https://fueglistaler.princeton.edu)
 

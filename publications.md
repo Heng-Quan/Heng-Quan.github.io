@@ -6,7 +6,7 @@ title: Publications
 
 # Publications
 
-Lastest Update: 22nd June 2024
+Lastest Update: 26th June 2024
 
 ## Manuscripts in prep
 
@@ -14,7 +14,7 @@ Lastest Update: 22nd June 2024
 
 ## Manuscripts under review
 
-- **Quan, H.**, Zhang, Y., & Fueglistaler, S. Weaker temperature gradient in a warmer climate. [[preprint]](https://heng-quan.github.io/mypaper/Quan_2024_JAS_preprint.pdf)
+- **Quan, H.**, Zhang, Y., & Fueglistaler, S. Weakening of tropical free tropospheric temperature gradients with global warming. [[preprint]](https://heng-quan.github.io/mypaper/Quan_2024_JAS_preprint.pdf)
 
 - **Quan, H.**, Fueglistaler, S., Zhang, B., & Wang, C. Non-linear radiative response to patterned global warming due to convection aggregation and non-linear tropical dynamics. [[preprint]](https://heng-quan.github.io/mypaper/Quan_2023_JCLI_preprint.pdf)
 
