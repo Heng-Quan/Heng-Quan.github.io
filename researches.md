@@ -4,7 +4,7 @@ permalink: /researches/index.html
 title: Researches
 ---
 
-Lastest Update: 26th June 2024
+Lastest Update: 16th August 2024
 
 # Graduate researches at Princeton University
 
@@ -28,9 +28,9 @@ Our studies have the following key points:
 
 ![SST_pattern_effect.pdf](https://heng-quan.github.io/figures/SST_pattern_effect.pdf)
 
-1. Tropical SST gradient has comparable impacts on TOA shortwave and longwave radiation in a hierarchy of models (on-going research).
-2. Historical (1980-2010) SST warming pattern featuring increasing SST gradient results more negative longwave radiative feedback than uniform SST warming, which is quantitatively explained by convection aggregation (on-going research).
-3. OLR responses to SST perturbations at different locations are not additive, because convection aggregation responses are not additive. This can be ultimately explained by non-linear tropical atmospheric dynamics (revision under review, see the [video](https://heng-quan.github.io/file/AGU2023_Quan_video.mp4) and [preprint](https://heng-quan.github.io/mypaper/Quan_2023_JCLI_preprint.pdf)). 
+1. Tropical SST gradient has comparable impacts on TOA shortwave and longwave radiation in a hierarchy of models.
+2. Historical (1980-2010) SST warming pattern featuring increasing SST gradient results more negative longwave radiative feedback than uniform SST warming, which is quantitatively explained by convection aggregation.
+3. OLR responses to SST perturbations at different locations are not additive, because convection aggregation responses are not additive. This can be ultimately explained by non-linear tropical atmospheric dynamics. See the [video](https://heng-quan.github.io/file/AGU2023_Quan_video.mp4) and [paper](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-23-0539.1/JCLI-D-23-0539.1.xml) in Journal of Climate. 
 
 Collaborators: [Stephan Fueglistaler](https://fueglistaler.princeton.edu), [Bosong Zhang](https://scholar.google.com/citations?hl=en&user=fe0ePl0AAAAJ&view_op=list_works&sortby=pubdate), [Chenggong Wang](https://chenggongwang.github.io)
 
