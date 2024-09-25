@@ -6,15 +6,13 @@ title: Publications
 
 # Publications
 
-Lastest Update: 16th August 2024
+Lastest Update: 25th September 2024
 
-## Manuscripts in prep
-
-- **Quan, H.**, Koll, D., Lutsko, N., & Yuval, J. Optimal Solar Geoengineering Strategies Based on Reinforcement Learning.
-
-## Manuscripts under review
+## Submitted, under review
 
 - **Quan, H.**, Zhang, Y., & Fueglistaler, S. Weakening of tropical free tropospheric temperature gradients with global warming. [[preprint]](https://heng-quan.github.io/mypaper/Quan_2024_JAS_preprint.pdf)
+- **Quan, H.**, Fueglistaler, S., Zhang, B., & Wang, C. The Sea Surface Temperature Pattern Effect on Outgoing Longwave Radiation: the Role of Large-scale Convective Aggregation. [[preprint]](https://heng-quan.github.io/mypaper/Quan_2024_GRL_preprint.pdf)
+- **Quan, H.**, Koll, D., Lutsko, N., & Yuval, J. Optimal Solar Geoengineering Strategies Based on Reinforcement Learning.
 
 ## Published
 - **Quan, H.**, Fueglistaler, S., Zhang, B., & Wang, C. (2024). Non-linear radiative response to patterned global warming due to convection aggregation and non-linear tropical dynamics. Journal of Climate. [[doi]](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-23-0539.1/JCLI-D-23-0539.1.xml)
