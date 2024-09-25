@@ -4,38 +4,31 @@ permalink: /researches/index.html
 title: Researches
 ---
 
-Lastest Update: 16th August 2024
-
-# Graduate researches at Princeton University
+Lastest Update: 25th September 2024
 
 
 ## Weakening of tropical free tropospheric temperature gradients with global warming
-The Weak Temperature Gradient (WTG) approximation is fundamental to tropical atmospheric dynamics, yet its response to global warming is less studied. Here, we use theory and a hierarchy of models to demonstrate that the tropical free-tropospheric horizontal temperature gradients will be even weaker in a warmer climate.
+The weak temperature gradients (WTG) in the tropical free troposphere due to the vanishing Coriolis force near the equator is fundamental to tropical atmospheric dynamics. Here we demonstrate that the weak temperature gradients will be even weaker in the future, which is explained by the slow-down of tropical circulation under global warming.
 
 ![weaker_T500_gradient.pdf](https://heng-quan.github.io/figures/weaker_T500_gradient.pdf)
-
-Long story short, weaker atmospheric circulation in a warmer climate causes weaker momentum advection in tropical free-troposphere, then results weaker pressure gradients as required by the momentum equation, which finally translates to weaker temperature gradients according to the hydrostatic balance.
-
-We have a manuscript under review in Journal of the Atmospheric Sciences regarding the above mechanism. We plan to study the implications of weaker tropical free-tropospheric temperature gradient in the future. Do we need to improve the WTG parameterization of large-scale dynamics in convective-scale modeling? Will weaker tropical free-tropospheric temperature gradient affect surface heat extremes and low cloud cover?
 
 Collaborators: [Yi Zhang](https://yzhang-aos.github.io), [Stephan Fueglistaler](https://fueglistaler.princeton.edu)
 
 
-## SST pattern effect on OLR: the role of large-scale convection aggregation
-The spatial pattern of tropical SST significantly affects TOA radiation. Many previous studies focused on shortwave radiation: Larger tropical SST gradient causes warmer free-troposphere and stronger inversion in subsiding regions, increasing low clouds and reflecting more shortwave radiation. 
-We instead turn to longwave radiation. Larger tropical SST gradient causes stronger overturning circulation and narrows the convective region. Such large-scale convection aggregation results in the expansion of dry and clear-sky regions, increasing OLR. 
-Our studies have the following key points:
+## The SST pattern effect on OLR: the role of large-scale convective aggregation
+Previous studies show that the west-east SST gradient in tropical Pacific affects shortwave cloud radiative effect by modulating boundary layer inversion strength and low cloud amount. Here we argue that the SST gradient also affects OLR by modulating the strength of large-scale convective aggregation (i.e. the width of the convective area). This mechanism strongly slows down global warming in the 1980-2010 period which has a La-Nina-like SST warming pattern.
 
 ![SST_pattern_effect.pdf](https://heng-quan.github.io/figures/SST_pattern_effect.pdf)
-
-1. Tropical SST gradient has comparable impacts on TOA shortwave and longwave radiation in a hierarchy of models.
-2. Historical (1980-2010) SST warming pattern featuring increasing SST gradient results more negative longwave radiative feedback than uniform SST warming, which is quantitatively explained by convection aggregation.
-3. OLR responses to SST perturbations at different locations are not additive, because convection aggregation responses are not additive. This can be ultimately explained by non-linear tropical atmospheric dynamics. See the [video](https://heng-quan.github.io/file/AGU2023_Quan_video.mp4) and [paper](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-23-0539.1/JCLI-D-23-0539.1.xml) in Journal of Climate. 
 
 Collaborators: [Stephan Fueglistaler](https://fueglistaler.princeton.edu), [Bosong Zhang](https://scholar.google.com/citations?hl=en&user=fe0ePl0AAAAJ&view_op=list_works&sortby=pubdate), [Chenggong Wang](https://chenggongwang.github.io)
 
 
-# Undergraduate researches at Peking University 
+## The non-additivity problem in the SST Green's Function approach
+OLR responses to SST perturbations at different locations are not additive, because large-scale convection aggregation responses are not additive. This can be ultimately explained by non-linear tropical atmospheric dynamics. 
+
+Collaborators: [Stephan Fueglistaler](https://fueglistaler.princeton.edu), [Bosong Zhang](https://scholar.google.com/citations?hl=en&user=fe0ePl0AAAAJ&view_op=list_works&sortby=pubdate), [Chenggong Wang](https://chenggongwang.github.io)
+
+See the [video](https://heng-quan.github.io/file/AGU2023_Quan_video.mp4) and [paper](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-23-0539.1/JCLI-D-23-0539.1.xml) in Journal of Climate. 
 
 
 ## Reinforcement Learning for Geoengineering
