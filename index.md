@@ -14,6 +14,7 @@ I am a graduate student in [Atmospheric and Oceanic Sciences (AOS) program](http
 
 ## News and Updates
 
+- **Oct 2024：**I attended the 2024 ICDM workshop in Nanjing, and gave an oral presentation titled 'Weakening of tropical free tropospheric temperature gradients with global warming'. The [preprint](https://heng-quan.github.io/mypaper/Quan_2024_JAS_preprint.pdf) and [slides](https://heng-quan.github.io/file/ICDM2024_Quan_slides.pdf) are attached.
 - **Aug 2024：**Our paper ["Non-linear radiative response to patterned global warming due to convection aggregation and non-linear tropical dynamics"](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-23-0539.1/JCLI-D-23-0539.1.xml) is out in Journal of Climate.
 - **July 2024：**I attended the 2024 RossbyPalooza summer school in UChicago. I worked with professor [Da Yang](https://www.yang-climate-group.org) on 'How does water vapor buoyancy contribute to large-scale circulation'. This is a very rewarding experience!
 - **June 2024：**I attended 2024 AOFD in Burlington, and gave an oral presentation titled 'Weaker temperature gradient
