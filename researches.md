@@ -14,7 +14,7 @@ The weak temperature gradients (WTG) in the tropical free troposphere due to the
 
 Collaborators: [Yi Zhang](https://yzhang-aos.github.io), [Stephan Fueglistaler](https://fueglistaler.princeton.edu)
 
-See the [video](https://heng-quan.github.io/file/AGU2024_Quan_video.mp4) and [paper](https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-24-0112.1/JAS-D-24-0112.1.xml) in Journal of the Atmospheric Sciences.
+See the [video](https://heng-quan.github.io/file/AGU2024_Quan_video.mp4) and [paper](https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-24-0140.1/JAS-D-24-0140.1.xml) in Journal of the Atmospheric Sciences.
 
 
 ## The SST pattern effect on OLR: the role of large-scale convective aggregation
