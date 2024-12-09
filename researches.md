@@ -4,7 +4,7 @@ permalink: /researches/index.html
 title: Researches
 ---
 
-Lastest Update: 25th September 2024
+Lastest Update: 8th December 2024
 
 
 ## Weakening of tropical free tropospheric temperature gradients with global warming
@@ -13,6 +13,8 @@ The weak temperature gradients (WTG) in the tropical free troposphere due to the
 ![weaker_T500_gradient.pdf](https://heng-quan.github.io/figures/weaker_T500_gradient.pdf)
 
 Collaborators: [Yi Zhang](https://yzhang-aos.github.io), [Stephan Fueglistaler](https://fueglistaler.princeton.edu)
+
+See the [video](https://heng-quan.github.io/file/AGU2024_Quan_video.mp4) and [paper](https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-24-0112.1/JAS-D-24-0112.1.xml) in Journal of the Atmospheric Sciences.
 
 
 ## The SST pattern effect on OLR: the role of large-scale convective aggregation
