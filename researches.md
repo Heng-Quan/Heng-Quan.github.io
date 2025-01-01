@@ -4,7 +4,7 @@ permalink: /researches/index.html
 title: Researches
 ---
 
-Lastest Update: 8th December 2024
+Lastest Update: 1st January 2025
 
 
 ## Weakening of tropical free tropospheric temperature gradients with global warming
@@ -24,9 +24,13 @@ Previous studies show that the west-east SST gradient in tropical Pacific affect
 
 Collaborators: [Stephan Fueglistaler](https://fueglistaler.princeton.edu), [Bosong Zhang](https://scholar.google.com/citations?hl=en&user=fe0ePl0AAAAJ&view_op=list_works&sortby=pubdate), [Chenggong Wang](https://chenggongwang.github.io)
 
+See the [video](https://heng-quan.github.io/file/CFMIP2024_Quan_video.mp4).
+
 
 ## The non-additivity problem in the SST Green's Function approach
-OLR responses to SST perturbations at different locations are not additive, because large-scale convection aggregation responses are not additive. This can be ultimately explained by non-linear tropical atmospheric dynamics. 
+OLR responses to SST perturbations at different locations are not additive, because large-scale convection aggregation responses are not additive. This can be ultimately explained by non-linear tropical atmospheric dynamics.
+
+![GF_non_additivity.pdf](https://heng-quan.github.io/figures/GF_non_additivity.pdf) 
 
 Collaborators: [Stephan Fueglistaler](https://fueglistaler.princeton.edu), [Bosong Zhang](https://scholar.google.com/citations?hl=en&user=fe0ePl0AAAAJ&view_op=list_works&sortby=pubdate), [Chenggong Wang](https://chenggongwang.github.io)
 
