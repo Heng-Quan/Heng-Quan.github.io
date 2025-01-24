@@ -20,7 +20,7 @@ See the [video](https://heng-quan.github.io/file/AGU2024_Quan_video.mp4) and [pa
 ## The SST pattern effect on OLR: the role of large-scale convective aggregation
 Previous studies show that the west-east SST gradient in tropical Pacific affects shortwave cloud radiative effect by modulating boundary layer inversion strength and low cloud amount. Here we argue that the SST gradient also affects OLR by modulating the strength of large-scale convective aggregation (i.e. the width of the convective area). This mechanism strongly slows down global warming in the 1980-2010 period which has a La-Nina-like SST warming pattern.
 
-![SST_pattern_effect.pdf](https://heng-quan.github.io/figures/SST_pattern_effect.pdf)
+![SST_pattern_effect.jpg](https://heng-quan.github.io/figures/SST_pattern_effect.jpg)
 
 Collaborators: [Stephan Fueglistaler](https://fueglistaler.princeton.edu), [Bosong Zhang](https://scholar.google.com/citations?hl=en&user=fe0ePl0AAAAJ&view_op=list_works&sortby=pubdate), [Chenggong Wang](https://chenggongwang.github.io)
 
@@ -30,7 +30,7 @@ See the [video](https://heng-quan.github.io/file/CFMIP2024_Quan_video.mp4).
 ## The non-additivity problem in the SST Green's Function approach
 OLR responses to SST perturbations at different locations are not additive, because large-scale convection aggregation responses are not additive. This can be ultimately explained by non-linear tropical atmospheric dynamics.
 
-![GF_non_additivity.pdf](https://heng-quan.github.io/figures/GF_non_additivity.pdf) 
+![GF_non_additivity.jpg](https://heng-quan.github.io/figures/GF_non_additivity.jpg) 
 
 Collaborators: [Stephan Fueglistaler](https://fueglistaler.princeton.edu), [Bosong Zhang](https://scholar.google.com/citations?hl=en&user=fe0ePl0AAAAJ&view_op=list_works&sortby=pubdate), [Chenggong Wang](https://chenggongwang.github.io)
 
