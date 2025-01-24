@@ -10,7 +10,7 @@ Lastest Update: 1st January 2025
 ## Weakening of tropical free tropospheric temperature gradients with global warming
 The weak temperature gradients (WTG) in the tropical free troposphere due to the vanishing Coriolis force near the equator is fundamental to tropical atmospheric dynamics. Here we demonstrate that the weak temperature gradients will be even weaker in the future, which is explained by the slow-down of tropical circulation under global warming.
 
-![weaker_T500_gradient.pdf](https://heng-quan.github.io/figures/weaker_T500_gradient.pdf)
+![weaker_T500_gradient.jpg](https://heng-quan.github.io/figures/weaker_T500_gradient.jpg)
 
 Collaborators: [Yi Zhang](https://yzhang-aos.github.io), [Stephan Fueglistaler](https://fueglistaler.princeton.edu)
 
