@@ -14,7 +14,7 @@ I am a graduate student in [Atmospheric and Oceanic Sciences (AOS) program](http
 
 ## News and Updates
 
-- **Mar 2024：**I'm named a [2025 GFD Fellow](https://gfd.whoi.edu/gfd-fellowships/) at Woods Hole Oceanographic Institution (WHOI). I'm looking forward to doing exciting research this summer!  
+- **Mar 2025：**I'm named a [2025 GFD Fellow](https://gfd.whoi.edu/gfd-fellowships/) at Woods Hole Oceanographic Institution (WHOI). I'm looking forward to doing exciting research this summer!  
 - **Dec 2024：**I attended 2024 AGU in Washington D.C., and gave an oral presentation titled 'Weakening of tropical free tropospheric temperature gradients with global warming'. The [slides](https://heng-quan.github.io/file/AGU2024_Quan_slides.pptx) and [pre-recorded video](https://heng-quan.github.io/file/AGU2024_Quan_video.mp4) are attached.
 - **Dec 2024：**Our paper ["Weakening of tropical free tropospheric temperature gradients with global warming"](https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-24-0140.1/JAS-D-24-0140.1.xml) is out in Journal of the Atmospheric Sciences.
 - **Oct 2024：**I attended the 2024 ICDM workshop in Nanjing, and gave an oral presentation titled 'Weakening of tropical free tropospheric temperature gradients with global warming'. The [slides](https://heng-quan.github.io/file/ICDM2024_Quan_slides.pptx) are attached. I got the best student oral presentation award! 
