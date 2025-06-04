@@ -6,15 +6,15 @@ title: Publications
 
 # Publications
 
-Lastest Update: 1st January 2025
+Lastest Update: 4th June 2025
 
-## Submitted, under review
+## Submitted
 
-- **Quan, H.**, Fueglistaler, S., Zhang, B., & Wang, C. The Sea Surface Temperature Pattern Effect on Outgoing Longwave Radiation: the Role of Large-scale Convective Aggregation. [[preprint]](https://heng-quan.github.io/mypaper/Quan_2024_GRL_preprint.pdf)
 - **Quan, H.**, Koll, D., Lutsko, N., & Yuval, J. Optimal Solar Geoengineering Strategies Based on Reinforcement Learning.
 
 ## Published
 
+- **Quan, H.**, Fueglistaler, S., Zhang, B., & Wang, C. The Sea Surface Temperature Pattern Effect on Outgoing Longwave Radiation: the Role of Large-scale Convective Aggregation. [[doi]](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL112756)[[pdf]](https://heng-quan.github.io/mypaper/Quan_2025_GRL.pdf)
 - **Quan, H.**, Zhang, Y., & Fueglistaler, S. (2025). Weakening of tropical free tropospheric temperature gradients with global warming. Journal of the Atmospheric Sciences, 82(1): 31-43. [[doi]](https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-24-0140.1/JAS-D-24-0140.1.xml)[[pdf]](https://heng-quan.github.io/mypaper/Quan_2025_JAS.pdf)
 - **Quan, H.**, Fueglistaler, S., Zhang, B., & Wang, C. (2024). Non-linear radiative response to patterned global warming due to convection aggregation and non-linear tropical dynamics. Journal of Climate, 37(21): 5675-5686. [[doi]](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-23-0539.1/JCLI-D-23-0539.1.xml)[[pdf]](https://heng-quan.github.io/mypaper/Quan_2024_JCLI.pdf)
 - **Quan, H.**, Zhang, B., Bourguet, S., Linz, M., & Chen, G. (2023). How Do Different Processes Shape Temperature Probability Distributions? A Percentile-averaged Temperature Tendency Decomposition. Journal of Climate, 36(15): 5179-5196. [[doi]](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-22-0556.1/JCLI-D-22-0556.1.xml)[[pdf]](https://heng-quan.github.io/mypaper/Quan_2023_JCLI.pdf)

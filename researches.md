@@ -4,7 +4,7 @@ permalink: /researches/index.html
 title: Researches
 ---
 
-Lastest Update: 1st January 2025
+Lastest Update: 4th June 2025
 
 
 ## Weakening of tropical free tropospheric temperature gradients with global warming
@@ -24,7 +24,7 @@ Previous studies show that the west-east SST gradient in tropical Pacific affect
 
 Collaborators: [Stephan Fueglistaler](https://fueglistaler.princeton.edu), [Bosong Zhang](https://scholar.google.com/citations?hl=en&user=fe0ePl0AAAAJ&view_op=list_works&sortby=pubdate), [Chenggong Wang](https://chenggongwang.github.io)
 
-See the [video](https://heng-quan.github.io/file/CFMIP2024_Quan_video.mp4).
+See the [video](https://heng-quan.github.io/file/CFMIP2024_Quan_video.mp4) and [paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL112756) in Geophysical Research Letters.
 
 
 ## The non-additivity problem in the SST Green's Function approach

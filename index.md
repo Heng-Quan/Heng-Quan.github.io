@@ -14,6 +14,7 @@ I am a graduate student in [Atmospheric and Oceanic Sciences (AOS) program](http
 
 ## News and Updates
 
+- **June 2025：**Our paper ["The Sea Surface Temperature Pattern Effect on Outgoing Longwave Radiation: The Role of Large-Scale Convective Aggregation"](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL112756) is out in Geophysical Research Letters.
 - **Mar 2025：**I'm named a [2025 GFD Fellow](https://gfd.whoi.edu/gfd-fellowships/) at Woods Hole Oceanographic Institution (WHOI). I'm looking forward to doing exciting research this summer!  
 - **Dec 2024：**I attended 2024 AGU in Washington D.C., and gave an oral presentation titled 'Weakening of tropical free tropospheric temperature gradients with global warming'. The [slides](https://heng-quan.github.io/file/AGU2024_Quan_slides.pptx) and [pre-recorded video](https://heng-quan.github.io/file/AGU2024_Quan_video.mp4) are attached.
 - **Dec 2024：**Our paper ["Weakening of tropical free tropospheric temperature gradients with global warming"](https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-24-0140.1/JAS-D-24-0140.1.xml) is out in Journal of the Atmospheric Sciences.
