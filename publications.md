@@ -6,10 +6,11 @@ title: Publications
 
 # Publications
 
-Lastest Update: 4th June 2025
+Lastest Update: 30th Sep 2025
 
 ## Submitted
 
+- **Quan, H.**, Zhang, Y., Dagan, G., & Fueglistaler, S. Transition to periodic precipitation in a warmer climate due to stronger convectively-coupled waves.
 - **Quan, H.**, Koll, D., Lutsko, N., & Yuval, J. Optimal Solar Geoengineering Strategies Based on Reinforcement Learning.
 
 ## Published
