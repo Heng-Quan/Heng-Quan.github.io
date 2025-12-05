@@ -4,7 +4,7 @@ permalink: /researches/index.html
 title: Researches
 ---
 
-Lastest Update: 4th June 2025
+Last Update: 4th Dec 2025
 
 
 ## Weakening of tropical free tropospheric temperature gradients with global warming
@@ -38,7 +38,13 @@ See the [video](https://heng-quan.github.io/file/AGU2023_Quan_video.mp4) and [pa
 
 
 ## Reinforcement Learning for Geoengineering
-One solar geoengineering method is injecting aerosols in the stratosphere to reflect solar radiation. Different strategies (global distribution + time dependence) of aerosol injection will affect climate differently, and people want to find the 'best' strategy that results in a desired climate state. This is an optimization problem and could be solved by reinforcement learning, a machine learning technic widely used in autonomous driving, robotics and AI game playing. This research shows that reinforcement learning gives us effective geoengineering strategies that can prevent global warming and revert climate change. This is my bachelor thesis research, advised by Professor [Daniel Koll](https://danielkoll.github.io) at Peking University. I also received lots of help from Professor [Nicholas Lutsko](https://nicklutsko.github.io) at UCSD and Dr. [Janni Yuval](https://yaniyuval.wixsite.com/janniy) at MIT. The research paper is going to be submitted soon.
+Solar Geoengineering via stratospheric sulfate aerosol injection can be thought as an optimization problem. In this research we optimize the temporal and spatial distribution of aerosol injection by coupling reinforcement learning (RL) to a GCM online. Our results provide a first proof-of-concept that RL can identify effective and promising strategies to prevent further climate change or revert already-existing climate change. 
+
+![RL_schematic.jpg](https://heng-quan.github.io/figures/RL_schematic.jpg)
+
+Collaborators: [Daniel Koll](https://danielkoll.github.io) (my bachelor thesis advisor), [Nicholas Lutsko](https://nicklutsko.github.io), [Janni Yuval](https://yaniyuval.wixsite.com/janniy)
+
+See the [paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JD044319) in JGR Atmospheres.
 
 
 ## Conditional mean temperature tendency decomposition
