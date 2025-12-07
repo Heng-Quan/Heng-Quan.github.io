@@ -6,6 +6,15 @@ title: Researches
 
 Last Update: 4th Dec 2025
 
+## Periodic extreme rainfall in a warmer climate due to stronger convectively-coupled waves
+We find a new phenomenon: Precipitation in tropical convective regions will transition to a ~10-day periodic oscillation with a ~100 mm/day magnitude in a 5 – 10 K warmer climate. This transition occurs in both GCM and idealized cloud-resolving model simulations, and can be explained by the intensification of large-scale convectively-coupled waves under global warming.
+
+![periodic_extreme_rainfall.jpg](https://heng-quan.github.io/figures/periodic_extreme_rainfall.jpg)
+
+Collaborators: [Yi Zhang](https://yzhang-aos.github.io), [Stephan Fueglistaler](https://fueglistaler.princeton.edu), [Guy Dagan](https://guydagan.huji.ac.il/)
+
+See the [video](https://heng-quan.github.io/file/AGU2025_A12_Quan_video.mp4) and [preprint](https://arxiv.org/abs/2511.19876).
+
 
 ## Weakening of tropical free tropospheric temperature gradients with global warming
 The weak temperature gradients (WTG) in the tropical free troposphere due to the vanishing Coriolis force near the equator is fundamental to tropical atmospheric dynamics. Here we demonstrate that the weak temperature gradients will be even weaker in the future, which is explained by the slow-down of tropical circulation under global warming.
