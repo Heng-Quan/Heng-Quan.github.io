@@ -10,7 +10,7 @@ Last Update: 4th Dec 2025
 
 ## Submitted
 
-- **Quan, H.**, Zhang, Y., Dagan, G., & Fueglistaler, S. Transition to periodic precipitation in a warmer climate due to stronger convectively-coupled waves. [[preprint]](https://arxiv.org/abs/2511.19876)[[pdf]](https://heng-quan.github.io/mypaper/preprint_periodic_convection.pdf) 
+- **Quan, H.**, Zhang, Y., Dagan, G., & Fueglistaler, S. Transition to periodic precipitation in a warmer climate due to stronger convectively-coupled waves. [[preprint]](https://arxiv.org/abs/2511.19876) 
 
 ## Published
 
