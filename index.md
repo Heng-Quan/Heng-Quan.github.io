@@ -13,6 +13,7 @@ I am a graduate student in [Atmospheric and Oceanic Sciences (AOS) program](http
 ---
 
 ## News and Updates
+- **Apr 2026：**I am awarded a [Charlotte Elizabeth Procter Fellowship](https://gradschool.princeton.edu/financial-support/fellowships/princeton-fellowships/honorific-fellowship-charlotte-elizabeth) by Princeton University for the 2026-27 academic year.
 - **Jan 2026：**I attended 2026 AOFD in Houston, and gave an oral presentation titled 'Periodic extreme rainfall in a warmer climate due to stronger convectively-coupled waves'. The [slides](https://heng-quan.github.io/file/AOFD2026_Quan_slides.pptx) are attached.
 - **Dec 2025：**I attended 2025 AGU in New Orleans, and gave an oral presentation titled 'Periodic extreme rainfall in a warmer climate due to stronger convectively-coupled waves'. The [slides](https://heng-quan.github.io/file/AGU2025_A12_Quan_slides.pptx) and [pre-recorded video](https://heng-quan.github.io/file/AGU2025_A12_Quan_video.mp4) are attached.
 - **Dec 2025：**Our paper ["Solar Geoengineering Strategies Based on Reinforcement Learning"](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JD044319) is out in JGR Atmospheres. This was my bachelor thesis research that I started in 2021 at Peking University. This paper was rejected for 7 times in 4 years, and I'm very glad to have it successfully published before I finish my PhD.
