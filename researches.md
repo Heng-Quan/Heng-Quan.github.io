@@ -4,10 +4,10 @@ permalink: /researches/index.html
 title: Researches
 ---
 
-Last Update: 26th Jan 2025
+Last Update: 5th Jun 2025
 
 ## Periodic extreme rainfall in a warmer climate due to stronger convectively-coupled waves
-We find a new phenomenon: Precipitation in tropical convective regions will transition to a ~10-day periodic oscillation with a ~100 mm/day magnitude in a 5 – 10 K warmer climate. This transition occurs in both GCM and idealized cloud-resolving model simulations, and can be explained by the intensification of large-scale convectively-coupled waves under global warming.
+We find a new phenomenon: Precipitation in tropical convective regions will transition to a ~10-day periodic oscillation with a ~100 mm/day magnitude in a 5 – 10 K warmer climate. This transition occurs in both GCM and idealized cloud-resolving model simulations, and can is explained in a low-order model by the intensification of large-scale convectively-coupled waves under global warming.
 
 ![periodic_extreme_rainfall.jpg](https://heng-quan.github.io/figures/periodic_extreme_rainfall.jpg)
 
@@ -16,10 +16,18 @@ Collaborators: [Yi Zhang](https://yzhang-aos.github.io), [Stephan Fueglistaler](
 See the [video](https://heng-quan.github.io/file/AGU2025_A12_Quan_video.mp4) and [preprint](https://arxiv.org/abs/2511.19876).
 
 
+## Vapor buoyancy and the African easterly jet
+The African easterly jet in summer is in balance with the positive meridional temperature gradient according to the thermal wind relation. We show that the vapor buoyancy (meridional moisture gradient) counteracts the temperature gradient and diagnostically reduces the pressure gradient by ~30%, hence slows the African easterly jet by ~30%. This vapor buoyancy effect will strengthen according to the Clausius–Clapeyron scaling in response to global warming.
+
+![AEJ_schematic.jpg](https://heng-quan.github.io/figures/AEJ_schematic.jpg)
+
+Collaborators: [Da Yang](https://www.yang-climate-group.org), [William Boos](https://boos.berkeley.edu), [Tiffany Shaw](https://geosci.uchicago.edu/people/tiffany-shaw/), [Huazhi Ge](https://scholar.google.com/citations?user=FNEGQhYAAAAJ&hl), [Yaoxuan Zeng](https://scholar.google.com/citations?user=jb9pdfAAAAAJ&hl=en), [Carly Kleinstern](https://geosci.uchicago.edu/people/carly-kleinstern/)
+
+
 ## Weakening of tropical free tropospheric temperature gradients with global warming
 The weak temperature gradients (WTG) in the tropical free troposphere due to the vanishing Coriolis force near the equator is fundamental to tropical atmospheric dynamics. Here we demonstrate that the weak temperature gradients will be even weaker in the future, which is explained by the slow-down of tropical circulation under global warming.
 
-![weaker_T500_gradient.jpg](https://heng-quan.github.io/figures/weaker_T500_gradient.jpg)
+![WTG_schematic.jpg](https://heng-quan.github.io/figures/WTG_schematic.jpg)
 
 Collaborators: [Yi Zhang](https://yzhang-aos.github.io), [Stephan Fueglistaler](https://fueglistaler.princeton.edu)
 

@@ -6,14 +6,15 @@ title: Publications
 
 # Publications
 
-Last Update: 4th Dec 2025
+Last Update: 5th June 2026
 
 ## Submitted
 
-- **Quan, H.**, Zhang, Y., Dagan, G., & Fueglistaler, S. Transition to periodic precipitation in a warmer climate due to stronger convectively-coupled waves. [[preprint]](https://arxiv.org/abs/2511.19876) 
+- **Quan, H.**, Yang, D., Boos, W., Shaw, T., Ge, H., Zeng, Y., & KleinStern, C. Vapor buoyancy and the African easterly jet. [[preprint]](https://arxiv.org/abs/2605.21875)
 
-## Published
+## Refereed publications
 
+- **Quan, H.**, Zhang, Y., Dagan, G., & Fueglistaler, S. (2026). Periodic extreme rainfall in a warmer climate due to stronger convectively-coupled waves. Science Advances, in press. [[preprint]](https://arxiv.org/abs/2511.19876)
 - **Quan, H.**, Koll, D., Lutsko, N., & Yuval, J. (2025). Optimal Solar Geoengineering Strategies Based on Reinforcement Learning. Journal of Geophysical Research: Atmospheres, 130(23): e2025JD044319. [[doi]](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JD044319)[[pdf]](https://heng-quan.github.io/mypaper/Quan_2025_JGR_Atmospheres.pdf)
 - **Quan, H.**, Fueglistaler, S., Zhang, B., & Wang, C. (2025). The Sea Surface Temperature Pattern Effect on Outgoing Longwave Radiation: the Role of Large-scale Convective Aggregation. Geophysical Research Letters, 52(11): e2024GL112756. [[doi]](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL112756)[[pdf]](https://heng-quan.github.io/mypaper/Quan_2025_GRL.pdf)
 - **Quan, H.**, Zhang, Y., & Fueglistaler, S. (2025). Weakening of tropical free tropospheric temperature gradients with global warming. Journal of the Atmospheric Sciences, 82(1): 31-43. [[doi]](https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-24-0140.1/JAS-D-24-0140.1.xml)[[pdf]](https://heng-quan.github.io/mypaper/Quan_2025_JAS.pdf)
