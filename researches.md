@@ -7,7 +7,7 @@ title: Researches
 Last Update: 5th Jun 2025
 
 ## Periodic extreme rainfall in a warmer climate due to stronger convectively-coupled waves
-We find a new phenomenon: Precipitation in tropical convective regions will transition to a ~10-day periodic oscillation with a ~100 mm/day magnitude in a 5 – 10 K warmer climate. This transition occurs in both GCM and idealized cloud-resolving model simulations, and can is explained in a low-order model by the intensification of large-scale convectively-coupled waves under global warming.
+We find a new phenomenon: Precipitation in tropical convective regions will transition to a ~10-day periodic oscillation with a ~100 mm/day magnitude in a 5 – 10 K warmer climate. This transition occurs in both GCM and idealized cloud-resolving model simulations, and is explained in a low-order model by the intensification of large-scale convectively-coupled waves under global warming.
 
 ![periodic_extreme_rainfall.jpg](https://heng-quan.github.io/figures/periodic_extreme_rainfall.jpg)
 
@@ -22,6 +22,8 @@ The African easterly jet in summer is in balance with the positive meridional te
 ![AEJ_schematic.jpg](https://heng-quan.github.io/figures/AEJ_schematic.jpg)
 
 Collaborators: [Da Yang](https://www.yang-climate-group.org), [William Boos](https://boos.berkeley.edu), [Tiffany Shaw](https://geosci.uchicago.edu/people/tiffany-shaw/), [Huazhi Ge](https://scholar.google.com/citations?user=FNEGQhYAAAAJ&hl), [Yaoxuan Zeng](https://scholar.google.com/citations?user=jb9pdfAAAAAJ&hl=en), [Carly Kleinstern](https://geosci.uchicago.edu/people/carly-kleinstern/)
+
+See the [preprint](https://arxiv.org/abs/2605.21875).
 
 
 ## Weakening of tropical free tropospheric temperature gradients with global warming
