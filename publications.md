@@ -6,10 +6,11 @@ title: Publications
 
 # Publications
 
-Last Update: 5th June 2026
+Last Update: 28th July 2026
 
 ## Submitted
 
+- **Quan, H.**, Zhang, Y., Dagan, G., & Fueglistaler, S. Transition to double-cell mock Walker circulations with surface warming explained by periodic convection. [[preprint]](https://arxiv.org/abs/2607.23001)
 - **Quan, H.**, Yang, D., Boos, W., Shaw, T., Ge, H., Zeng, Y., & KleinStern, C. Vapor buoyancy and the African easterly jet. [[preprint]](https://arxiv.org/abs/2605.21875)
 
 ## Refereed publications
