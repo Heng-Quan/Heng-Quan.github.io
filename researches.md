@@ -17,7 +17,7 @@ See the [video](https://heng-quan.github.io/file/AGU2025_A12_Quan_video.mp4) and
 
 
 ## Transition to double-cell mock Walker circulations with surface warming explained by periodic convection
-Mock Walker simulations show a transition from a single-cell to a double-cell mock Walker circulation when the average SST exceeds 300\,K. We ascribe the transition to the emergence of periodic convection with warming (our preceding paper): Convective and stratiform mode dominate the warm pool alternately in a warmer climate, resulting in the lower and upper cell respectively, which causes the time-averaged double-cell.
+Mock Walker simulations show a transition from a single-cell to a double-cell circulation when the average SST exceeds 300 K. We ascribe the transition to the emergence of periodic convection with warming (our preceding paper): Convective and stratiform mode dominate the warm pool alternately in a warmer climate, resulting in the lower and upper cell respectively, which causes the time-averaged double-cell.
 
 ![double_cell_schematic.jpg](https://heng-quan.github.io/figures/double_cell_schematic.jpg) 
 
