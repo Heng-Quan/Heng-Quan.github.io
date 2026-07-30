@@ -9,7 +9,7 @@ Last Update: 28th July 2026
 ## Periodic extreme rainfall in a warmer climate due to stronger convectively-coupled waves
 We find a new phenomenon: Precipitation in tropical convective regions will transition to a ~10-day periodic oscillation with a ~100 mm/day magnitude in a 5 – 10 K warmer climate. This transition occurs in both GCM and idealized cloud-resolving model simulations, and is explained in a low-order model by the intensification of large-scale convectively-coupled waves under global warming.
 
-![periodic_extreme_rainfall.jpg](https://heng-quan.github.io/figures/periodic_extreme_rainfall.jpg)
+![periodic_extreme_rainfall.png](https://heng-quan.github.io/figures/periodic_extreme_rainfall.png)
 
 Collaborators: [Yi Zhang](https://yzhang-aos.github.io), [Stephan Fueglistaler](https://fueglistaler.princeton.edu), [Guy Dagan](https://guydagan.huji.ac.il/)
 
