@@ -26,9 +26,9 @@ Collaborators: [Yi Zhang](https://yzhang-aos.github.io), [Stephan Fueglistaler](
 See the [preprint](https://arxiv.org/abs/2607.23001).
 
 ## Vapor buoyancy and the African easterly jet
-The African easterly jet in summer is in balance with the positive meridional temperature gradient according to the thermal wind relation. We show that the vapor buoyancy (meridional moisture gradient) counteracts the temperature gradient and diagnostically reduces the pressure gradient by ~30%, hence slows the African easterly jet by ~30%. This vapor buoyancy effect will strengthen according to the Clausius–Clapeyron scaling in response to global warming.
+The African easterly jet in summer is in balance with the positive meridional temperature gradient according to the thermal wind relation. We show that the meridional moisture (vapor buoyancy) gradient counteracts the temperature gradient and diagnostically reduces the pressure gradient by ~30%, hence slows the African easterly jet by ~30%. This vapor buoyancy effect will strengthen according to the Clausius–Clapeyron scaling in response to global warming.
 
-![AEJ_schematic.jpg](https://heng-quan.github.io/figures/AEJ_schematic.jpg)
+![AEJ_VB_schematic.png](https://heng-quan.github.io/figures/AEJ_VB_schematic.png)
 
 Collaborators: [Da Yang](https://www.yang-climate-group.org), [William Boos](https://boos.berkeley.edu), [Tiffany Shaw](https://geosci.uchicago.edu/people/tiffany-shaw/), [Huazhi Ge](https://scholar.google.com/citations?user=FNEGQhYAAAAJ&hl), [Yaoxuan Zeng](https://scholar.google.com/citations?user=jb9pdfAAAAAJ&hl=en), [Carly Kleinstern](https://geosci.uchicago.edu/people/carly-kleinstern/)
 
