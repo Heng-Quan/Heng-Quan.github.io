@@ -4,7 +4,7 @@ permalink: /researches/index.html
 title: Researches
 ---
 
-Last Update: 28th July 2026
+Last Update: 7th August 2026
 
 ## Periodic extreme rainfall in a warmer climate due to stronger convectively-coupled waves
 We find a new phenomenon: Precipitation in tropical convective regions will transition to a ~10-day periodic oscillation with a ~100 mm/day magnitude in a 5 – 10 K warmer climate. This transition occurs in both GCM and idealized cloud-resolving model simulations, and is explained in a low-order model by the intensification of large-scale convectively-coupled waves under global warming.
@@ -13,7 +13,7 @@ We find a new phenomenon: Precipitation in tropical convective regions will tran
 
 Collaborators: [Yi Zhang](https://yzhang-aos.github.io), [Stephan Fueglistaler](https://fueglistaler.princeton.edu), [Guy Dagan](https://guydagan.huji.ac.il/)
 
-See the [video](https://heng-quan.github.io/file/AGU2025_A12_Quan_video.mp4) and [preprint](https://arxiv.org/abs/2511.19876).
+See the [video](https://heng-quan.github.io/file/AGU2025_A12_Quan_video.mp4) and [paper](https://www.science.org/doi/10.1126/sciadv.aed1634) in Science Advances.
 
 
 ## Transition to double-cell mock Walker circulations with surface warming explained by periodic convection
@@ -24,6 +24,7 @@ Mock Walker simulations show a transition from a single-cell to a double-cell ci
 Collaborators: [Yi Zhang](https://yzhang-aos.github.io), [Stephan Fueglistaler](https://fueglistaler.princeton.edu), [Guy Dagan](https://guydagan.huji.ac.il/)
 
 See the [preprint](https://arxiv.org/abs/2607.23001).
+
 
 ## Vapor buoyancy and the African easterly jet
 The African easterly jet in summer is in balance with the positive meridional temperature gradient according to the thermal wind relation. We show that the meridional moisture (vapor buoyancy) gradient counteracts the temperature gradient and diagnostically reduces the pressure gradient by ~30%, hence slows the African easterly jet by ~30%. This vapor buoyancy effect will strengthen according to the Clausius–Clapeyron scaling in response to global warming.

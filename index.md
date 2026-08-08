@@ -13,6 +13,7 @@ I am a PhD candidate in [Atmospheric and Oceanic Sciences (AOS) program](https:/
 ---
 
 ## News and Updates
+- **Aug 2026：**Our paper ["Periodic extreme rainfall in a warmer climate due to stronger convectively coupled waves"](https://www.science.org/doi/10.1126/sciadv.aed1634) is out in Science Advances.
 - **Apr 2026：**I am awarded a [Charlotte Elizabeth Procter Fellowship](https://gradschool.princeton.edu/financial-support/fellowships/princeton-fellowships/honorific-fellowship-charlotte-elizabeth) by Princeton University for the 2026-27 academic year.
 - **Jan 2026：**I attended 2026 AOFD in Houston, and gave an oral presentation titled 'Periodic extreme rainfall in a warmer climate due to stronger convectively-coupled waves'. The [slides](https://heng-quan.github.io/file/AOFD2026_Quan_slides.pptx) are attached.
 - **Dec 2025：**I attended 2025 AGU in New Orleans, and gave an oral presentation titled 'Periodic extreme rainfall in a warmer climate due to stronger convectively-coupled waves'. The [slides](https://heng-quan.github.io/file/AGU2025_A12_Quan_slides.pptx) and [pre-recorded video](https://heng-quan.github.io/file/AGU2025_A12_Quan_video.mp4) are attached.
