@@ -6,16 +6,16 @@ title: Publications
 
 # Publications
 
-Last Update: 7th August 2026
+Last Update: 26th September 2026
 
 ## Submitted
 
-- **Quan, H.**, Zhang, Y., Dagan, G., & Fueglistaler, S. Transition to double-cell mock Walker circulations with surface warming explained by periodic convection. [[preprint]](https://arxiv.org/abs/2607.23001)
 - **Quan, H.**, Yang, D., Boos, W., Shaw, T., Ge, H., Zeng, Y., & KleinStern, C. Vapor buoyancy and the African easterly jet. [[preprint]](https://arxiv.org/abs/2605.21875)
 
 ## Refereed publications
 
 - **Quan, H.**, Zhang, Y., Dagan, G., & Fueglistaler, S. (2026). Periodic extreme rainfall in a warmer climate due to stronger convectively-coupled waves. Science Advances, 12(32): eaed1634. [[html]](https://www.science.org/doi/10.1126/sciadv.aed1634)[[pdf]](https://heng-quan.github.io/mypaper/Quan_2026_Sci_adv.pdf)
+- **Quan, H.**, Zhang, Y., Dagan, G., & Fueglistaler, S. (2026). Transition to double-cell mock Walker circulations with surface warming explained by periodic convection. Geophysical Research Letters, 52(11): e2026GL125529. [[html]](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2026GL125529)[[pdf]](https://heng-quan.github.io/mypaper/Quan_2026_GRL.pdf)
 - **Quan, H.**, Koll, D., Lutsko, N., & Yuval, J. (2025). Optimal Solar Geoengineering Strategies Based on Reinforcement Learning. Journal of Geophysical Research: Atmospheres, 130(23): e2025JD044319. [[html]](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JD044319)[[pdf]](https://heng-quan.github.io/mypaper/Quan_2025_JGR_Atmospheres.pdf)
 - **Quan, H.**, Fueglistaler, S., Zhang, B., & Wang, C. (2025). The Sea Surface Temperature Pattern Effect on Outgoing Longwave Radiation: the Role of Large-scale Convective Aggregation. Geophysical Research Letters, 52(11): e2024GL112756. [[html]](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL112756)[[pdf]](https://heng-quan.github.io/mypaper/Quan_2025_GRL.pdf)
 - **Quan, H.**, Zhang, Y., & Fueglistaler, S. (2025). Weakening of tropical free tropospheric temperature gradients with global warming. Journal of the Atmospheric Sciences, 82(1): 31-43. [[html]](https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-24-0140.1/JAS-D-24-0140.1.xml)[[pdf]](https://heng-quan.github.io/mypaper/Quan_2025_JAS.pdf)

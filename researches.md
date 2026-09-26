@@ -4,7 +4,7 @@ permalink: /researches/index.html
 title: Researches
 ---
 
-Last Update: 7th August 2026
+Last Update: 26th September 2026
 
 ## Periodic extreme rainfall in a warmer climate due to stronger convectively-coupled waves
 We find a new phenomenon: Precipitation in tropical convective regions will transition to a ~10-day periodic oscillation with a ~100 mm/day magnitude in a 5 – 10 K warmer climate. This transition occurs in both GCM and idealized cloud-resolving model simulations, and is explained in a low-order model by the intensification of large-scale convectively-coupled waves under global warming.
@@ -23,7 +23,7 @@ Mock Walker simulations show a transition from a single-cell to a double-cell ci
 
 Collaborators: [Yi Zhang](https://yzhang-aos.github.io), [Stephan Fueglistaler](https://fueglistaler.princeton.edu), [Guy Dagan](https://guydagan.huji.ac.il/)
 
-See the [preprint](https://arxiv.org/abs/2607.23001).
+See the [paper](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2026GL125529) in Geophysical Research Letters.
 
 
 ## Vapor buoyancy and the African easterly jet
